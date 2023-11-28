@@ -14,8 +14,6 @@ mongoose.connect('mongodb+srv://admin:KTetKihi5HFFFFul@api.f7iqgkm.mongodb.net/a
   useUnifiedTopology: true,
 });
 
-
-
 const userSchema = new mongoose.Schema({
   nome: String,
   email: String,
