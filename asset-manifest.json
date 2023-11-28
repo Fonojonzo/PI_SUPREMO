@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PI_SUPREMO/static/css/main.e8d1caaf.css",
+    "main.js": "/PI_SUPREMO/static/js/main.5b55a134.js",
+    "static/media/cobra.png": "/PI_SUPREMO/static/media/cobra.d25307c04edb1a6fc568.png",
+    "static/media/nav.png": "/PI_SUPREMO/static/media/nav.4853386bc3895f50eed2.png",
+    "static/media/pac.png": "/PI_SUPREMO/static/media/pac.eaa5e12507607c105e6e.png",
+    "static/media/logo.png": "/PI_SUPREMO/static/media/logo.3373399a6c42b34b9c94.png",
+    "static/media/scored_Delivery_1-removebg-preview 1.png": "/PI_SUPREMO/static/media/scored_Delivery_1-removebg-preview 1.3373399a6c42b34b9c94.png",
+    "index.html": "/PI_SUPREMO/index.html",
+    "main.e8d1caaf.css.map": "/PI_SUPREMO/static/css/main.e8d1caaf.css.map",
+    "main.5b55a134.js.map": "/PI_SUPREMO/static/js/main.5b55a134.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d1caaf.css",
+    "static/js/main.5b55a134.js"
+  ]
+}
