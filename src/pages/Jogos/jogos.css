@@ -1,0 +1,18 @@
+.menujogos {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menujogos img {
+    width: 40vh;
+}
+
+.menujogos img:hover {
+    /* filter: grayscale(20%); */
+    filter: contrast(60%);
+    border: 5px solid white;
+}
+
+.pac {
+    height: 325px;
+}

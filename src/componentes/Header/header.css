@@ -1,0 +1,80 @@
+.topo {
+    width: 100%;
+    height: auto;
+    background-color: #00b9e2;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 15px;
+    margin-bottom: 0;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: black;
+}
+
+.menu2 {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: #00b9e2;
+    padding: 5px;
+}
+
+.logo {
+    width: 10%;
+    margin-left: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    width: 100%;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.topo div p {
+    padding: 5px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.cxjogos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 35%;
+}
+
+.cxjogos img {
+    width: 50%;
+    margin-top: 15px;
+}
+
+.linkscomps {
+    color: orange;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.linksjogos {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.linksjogos:hover {
+    color: orange;
+}
+
+header a + a {
+    margin-left: 10px;
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+.princi {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.princi div {
+    width: 95%;
+    
+}
+
+.princi div p {
+    color: white;
+    font-family: 'Press Start 2P' ;
+    font-size: 18.7px;
+    line-height: 22px;
+}
+
+.opcoes {
+    display: flex;
+}
+
+.opcoes p {
+    margin-right: 4px;
+    margin-top: 10px;
+}

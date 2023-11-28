@@ -1,0 +1,89 @@
+main {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.janela {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;   
+    background-color: rgb(83, 83, 83);
+    border-radius: 20px;
+    width: 55%;
+    height: 80%;
+}
+
+.janela h2 {
+    color: #00b9e2;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.janela input {
+    width: 80%;
+    height: 10%;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    padding: 15px;
+}
+
+.janela button {
+    width: 80%;
+    height: 10%;
+    border-radius: 5px;
+    border: none;
+    background-color: #00b9e2;
+    color: white;
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.janela img {
+    width: 20%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.botao_env {
+    cursor: pointer;
+}
+
+.botao_env:hover {
+    background-color: #00ccfa;
+}
+
+.linkconta {
+    margin-top: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.linkconta:hover {
+    color: #00b9e2;
+}
+
+.formato_criar {
+    display: flex;
+    width: 82%;
+}
+
+.formato_criar input {
+    width: 50%;
+    height: 48px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.Mensagem {
+    font-weight: bold;
+    margin-top: 10px;
+    color: #dee200;
+}
