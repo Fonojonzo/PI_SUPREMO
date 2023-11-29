@@ -9,7 +9,7 @@ import PegarUser from '../../context/PegarUser';
 
 function Header() {
 
-  const nomeUsuario = PegarUser(); //Pegando o usuário pra digiar olá
+  const nomeUsuario = PegarUser();
   window.nomeUsuario = nomeUsuario;
 
   console.log(nomeUsuario);
@@ -28,8 +28,11 @@ function Header() {
             <img src={Logo} alt="Logo"></img>
           </Link>
         </div>
+
+        {nomeUsuario && (<h1 className='player'>Olá, {nomeUsuario} </h1> )}
+
         <div className="cxjogos">
-          {nomeUsuario && (<h1>Olá, {nomeUsuario} </h1> )}
+
             
           <Link className="linkscomps" to='/jogos'><img src={Jogo} alt="Jogo"></img></Link>
           <Link className="linkscomps" to='/ranking'><img src={Ranking} alt="Ranking"></img></Link>

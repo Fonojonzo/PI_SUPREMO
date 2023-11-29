@@ -78,3 +78,8 @@
 header a + a {
     margin-left: 10px;
 }
+
+.player {
+    color: orange;
+    margin-top: 30px;
+}
