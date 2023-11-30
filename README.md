@@ -1,8 +1,4 @@
-div align="center"
 ![logo](https://github.com/Fonojonzo/PI_SUPREMO/assets/125100615/184c9fb5-b7fd-496d-abc1-7e34aaf831e1)
-
-/div
-
 
 # Scored Games
 
