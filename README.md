@@ -42,7 +42,7 @@ Controle da cobra via teclado.
 
 
 ## Como Executar o Projeto Localmente
-Clone este repositório: git clone https://github.com/Fonojonzo/PI_SUPREMO.git
-Navegue até o diretório do projeto.
-Instale as dependências: npm install
-Execute o aplicativo: npm start
+* Clone este repositório: git clone https://github.com/Fonojonzo/PI_SUPREMO.git
+* Navegue até o diretório do projeto.
+* Instale as dependências: npm install
+* Execute o aplicativo: npm start
