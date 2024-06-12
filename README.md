@@ -45,3 +45,6 @@ Controle da cobra via teclado.
 * Navegue até o diretório do projeto.
 * Instale as dependências: npm install
 * Execute o aplicativo: npm start
+
+## Link do Figma:
+https://www.figma.com/design/cFwT4I03aEnQrAvOTtlPea/Pi?node-id=0-1&t=UTZ6NmyrMWeMRU31-1
